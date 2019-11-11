@@ -7,7 +7,7 @@ date: 2019-11-09
 
 [link](https://www.acmicpc.net/problem/8958)
 
-## Solution
+## Code
 
 ```cpp
 #include <iostream>
