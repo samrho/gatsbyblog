@@ -1,5 +1,5 @@
 import React, { Fragment } from "react"
-import { Styled } from "theme-ui"
+import { Styled, css } from "theme-ui"
 
 /**
  * Change the content to add your own bio
@@ -8,6 +8,7 @@ import { Styled } from "theme-ui"
 export default () => (
   <Fragment>
     <Styled.a href="https://github.com/samrho/">Sam Rho</Styled.a>
+    <br />
     studying full stack development @Boostcamp, Connect Foundation.
   </Fragment>
 )
