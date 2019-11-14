@@ -4,6 +4,7 @@ module.exports = {
       resolve: `gatsby-theme-blog`,
       options: {},
     },
+    `gatsby-plugin-offline`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -35,4 +36,5 @@ module.exports = {
       },
     ],
   },
+  pathPrefix: "/gatsbyblog",
 }
