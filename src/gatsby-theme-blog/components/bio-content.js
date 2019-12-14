@@ -8,7 +8,6 @@ import { Styled, css } from "theme-ui"
 export default () => (
   <Fragment>
     <Styled.a href="https://github.com/samrho/">Sam Rho</Styled.a>
-    <br />
-    studying full stack development @Boostcamp, Connect Foundation.
+    <br />A front-end developer who contemplates. 🤔
   </Fragment>
 )
