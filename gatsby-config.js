@@ -25,16 +25,7 @@ module.exports = {
     title: `Development Journal`,
     author: `Sam Rho, 노승남 `,
     description: `My site description...`,
-    social: [
-      {
-        name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
-      },
-      {
-        name: `github`,
-        url: `https://github.com/gatsbyjs`,
-      },
-    ],
+    social: [],
   },
   pathPrefix: "/gatsbyblog",
 }
