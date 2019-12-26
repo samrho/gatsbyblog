@@ -19,7 +19,7 @@ date: 2019-11-25
 
 저자: Andy Hunt, Dave Thomas · 주제: 프로그래밍 일반 · 수준: 초보
 
-This book is essential for software developers who want to develop their skills and become masters of the field. It is essential for anyone working in a team or working solo. If you are just starting out, read this book. If you are in the midst of your career, read this book. If you are an experienced veteran of the craft or feel yourself a master, read this book, then teach it.
+이 책은 기술을 발전시키고 개발 분야에서 대가가 되고자 하는 개발자들이 필수적으로 읽어야 할 서적입니다. 어떤 팀에 속해서 개발을 하고 있건 혼자서 개발을 진행하건 모든 개발자들이 읽어야 하지요. 당신이 막 개발자로서의 발걸음을 내딛었다면 이 책을 꼭 읽으세요. 중견 개발자시라구요? 이 책을 읽으세요. 베테랑이시라구요? 그럼 이 책을 읽으시고 알게 된 것을 가르치세요.
 
 ### HEAD FIRST DESIGN PATTERNS
 
@@ -27,7 +27,7 @@ This book is essential for software developers who want to develop their skills 
 
 저자: Eric Freeman, Kathy Sierra · 주제: code design · 수준: 초보
 
-Knowing the object-oriented programming (OOP) basics does not make you a good OO designer. This book is a fast-track to design patterns - battle-proven solutions to commonly occurring problems in software design. The book presents a complicated topic in a fun, readable and practical way. This book is a better version of the original GoF design patterns book. Must-read for every developer doing OO design.
+객체지향 프로그래밍의 기초를 단순히 알고 있다고 해서 당신이 꼭 좋은 객체지향 개발자라고 할 수는 없습니다. 이 책은 소프트웨어를 디자인할 때 빈번히 발생하는 문제들에 대한 실전적인 솔루션을 내놓음으로써 당신을 디자인 패턴을 배울 수 있는 지름길로 안내합니다. 이 책은 이 복잡한 내용(디자인 패턴)을 재미있고 가독성있고 실용적으로 풀어내고 있습니다. 이 책은 디자인 패턴의 거장 [GoF의 책](https://www.journaldev.com/31902/gangs-of-four-gof-design-patterns)의 더 나은 버전이며 객체지향 프로그래밍을 하는 모든 개발자들의 필독서라고 일러 두겠습니다.
 
 ### CLEAN CODE: A HANDBOOK OF AGILE SOFTWARE CRAFTSMANSHIP
 
@@ -35,7 +35,7 @@ Knowing the object-oriented programming (OOP) basics does not make you a good OO
 
 저자 Robert C. Martin (Uncle Bob) · 주제: coding · 수준: 초보/intermediate
 
-Clean Code teaches you how to write code that works well, reads well and expresses the intent of the 저자 This book’s biggest strength is that it includes tons of code examples, including some long and in-depth ones. Instead of just listing rules or principles of clean code, many of the chapters go through these code examples and iteratively improve them. This book is a must-read for every professional software developer.
+이 책 "클린 코드"는 당신을 **잘 작동하고, 잘 읽히며 당신의 의도를 잘 드러낼 수 있는 코드**를 작성할 수 있도록 가르칩니다. 이 책은 길고 수준이 높은 것을 비롯해 수많은 예시 코드를 포함하고 있다는 것이 가장 큰 장점입니다. 클린 코드를 작성하는 규칙들이나 원리들을 설명하는 데에 그치지 않고, 여러 챕터에 걸쳐 예시 코드들을 순차적으로 향상해 나가는 것을 볼 수 있습니다. 이 책 또한 모든 개발자들이 필수적으로 읽어야 하는 도서입니다.
 
 ### THE CLEAN CODER
 
@@ -43,7 +43,7 @@ Clean Code teaches you how to write code that works well, reads well and express
 
 저자 Robert C. Martin (Uncle Bob) · 주제: soft skills · 수준: 초보/intermid
 
-The Clean Coder is a sequel to Uncle Bob’s famous Clean Code book. This book contains practical advice about everything from estimating and coding to refactoring and testing. You will learn how to communicate, estimate and deal with difficult situations at work. Strongly recommended for all programmers that would like to call themselves “professional.”
+"클린 코더"는 위에서 언급한 "클린 코드"의 속편입니다. 이 책은 예측, 코딩, 리팩토링과 테스팅을 포함한 실용적인 조언들을 담았습니다. 독자들은 이 책을 통해 팀 내에서 어떻게 소통해야 하는지 그리고 어떻게 어려운 상황을 예측하고 대처할 수 있는지를 배우게 될 것입니다. "프로"라고 불리고 싶다면 이 책을 읽는 것을 강력 추천하는 바입니다.
 
 ### GROWING OBJECT-ORIENTED SOFTWARE GUIDED BY TESTS
 
@@ -51,7 +51,7 @@ The Clean Coder is a sequel to Uncle Bob’s famous Clean Code book. This book c
 
 저자 Steve Freeman, Nat Pryce · 주제: testing and TDD · 수준: intermediate
 
-GOOS is not only the most practical book on Test-Driven Development but also the best book about automated software testing in general. This book shows how to create a realistic project using TDD and is full of code examples. When I meet a developer skeptical about TDD, I give him this book.
+이 책은 TDD를 다룬 가장 실용적인 책일 뿐만 아니라 좀 더 넓은 범위에서의 자동화된 소프트웨어 테스트에 대한 최고의 책이라고 할 수 있습니다. 이 책은 TDD를 방법론을 이용해 어떻게 현실적인 프로젝트를 진행할 수 있는지를 풍부한 코드 예시를 통해 알려줍니다. TDD에 회의적인 시각을 가지고 있는 개발자를 만나게 된다면 저는 이 책을 추천하곤 한답니다.
 
 ### THE PHOENIX PROJECT
 
@@ -59,7 +59,7 @@ GOOS is not only the most practical book on Test-Driven Development but also the
 
 저자 Gene Kim · 주제: management and process · 수준: intermediate
 
-BookAnyone who has worked for a large organization will identify themselves with the issues described in the book. The Phoenix Project is an entertaining novel about IT, DevOps and problems every large organization faces. That’s one of the best and funny reads on how to understand, manage and improve large organizations. You will learn a lot about Lean, Theory of Constraints and DevOps.
+큰 조직에서 일해본 개발자라면 이 책에 드러난 문제들에 깊이 공감할 수 있을 것입니다. 이 책은 IT와 DevOps, 그리고 큰 조직이 만나게 되는 문제들을 주제로 한 흥미로운 소설입니다. 큰 조직을 이해, 관리, 향상시키기 위한 자료들 중에 단연 최고라고 할 수 있습니다. 이 책을 읽는다면 제약조건과 데브옵스에 대해 많이 배우게 될 것입니다.
 
 ### THE SOFTWARE CRAFTSMAN
 
@@ -67,14 +67,14 @@ BookAnyone who has worked for a large organization will identify themselves with
 
 저자 Sandro Mancuso · 주제: software craftsmanship · 수준: intermediate
 
-How it is done is as important as getting it done. Software craftsmanship is a mindset where software developers choose to be responsible for their careers, constantly learning new tools and techniques. In this book, you will find a lot of ideas to improve yourself, your development team and company. If you want to be proud of your work and build a remarkable career, read this book.
+**어떻게** 일을 처리하는지는 일을 처리하는 것 만큼이나 중요합니다. 이 책은 끊임없이 새로운 툴과 기술을 배우는 개발자들이 가져야 할 책임을 말하고 있습니다. 이 책을 통해 독자들과 팀, 더 나아가 회사의 의 실력이 향상되는 것을 볼 수 있을 것입니다. 자신이 보기에도 자랑스러운 프로덕트를 만들고 싶고 멋진 커리어를 쌓고 싶다면 이 책을 읽으세요.
 
 ### SOFT SKILLS: THE SOFTWARE DEVELOPER’S LIFE MANUAL
 
 ![](https://images.gr-assets.com/books/1419180921l/23232941.jpg)
 저자 John Sonmez · 주제: career · 수준: intermediate
 
-Soft Skills is a very unusual book for software developers, but so much needed. This book addresses a wide range of important “soft” topics, from career and productivity to personal finance and investing, and even fitness and relationships, all from a developer-centric viewpoint. Read this book if you want to know how to manage your career, how to market yourself, build right habits or live a more fulfilling life.
+이 책은 개발자들이 꼭 읽어야 할 비범한 책입니다. 이 책은 커리어, 생산성부터 개인 재정 상태와 투자 그리고 건강 관리와 관계까지 개발자 중심적인 시각에서 광범위하게 "소프트"한 주제를 다루고 있습니다. 당신의 커리어를 어떻게 관리해야 하는지 알고 싶고 당신을 좀 더 잘 나가게 하고 싶다면, 그리고 더 바람직한 습관을 만들고 더 성취하는 삶을 영위하고 싶다면 이 책을 읽으십시오.
 
 ### CONTINUOUS DELIVERY
 
@@ -82,7 +82,7 @@ Soft Skills is a very unusual book for software developers, but so much needed. 
 
 저자 Jez Humble · 주제: development best practices · 수준: intermediate
 
-Work is not done until it ships. This book sets out principles and technical practices that enable rapid delivery of software to users. Through automation of the build, deployment, and testing process, and improved collaboration between developers, testers, and operations, delivery teams can get changes released in a matter of hours – sometimes even minutes. Skip at your own peril.
+개발 일은 출시가 되기 전에는 끝난 게 아닙니다. 이 책은 사용자들에게 소프트웨어를 빠르게 배포 가능하게 하는 원리와 기술적인 프랙티스들을 알려 줍니다. 빌드와 배포, 테스팅 과정을 자동화하고 개발자들과 테스터들 그리고 운영 팀과의 더 나은 협업을 통해 더 나은 환경을 구축하게 합니다. 단 몇 시간, 아니 어쩌면 몇 분 만에요. 읽으시든지 말든지 알아서 선택하세요.
 
 ### RELEASE IT!
 
@@ -92,7 +92,7 @@ Work is not done until it ships. This book sets out principles and technical pra
 
 Release It! is a practical guide on building modern fault-tolerant systems. The book examines ways to architect, design, and build production-ready systems that survive high load, hardware failures, and unreliable network. Are you ready for a world filled with flakey networks, tangled databases, and impatient users? Get this book to skip the pain and get the experience.
 
-### PEOPLEWARE
+<!-- ### PEOPLEWARE
 
 ![](https://images.gr-assets.com/books/1386925395l/67825.jpg)
 저자 Tom DeMarco · 주제: productivity · 수준: intermediate
@@ -121,4 +121,4 @@ The Goal is a novel about Alex Rogo – a production plant manager. Alex’s pla
 
 저자 Eric Evans · 주제: software architecture · 수준: advanced
 
-If you develop large enterprise systems, not reading this book borders on professional negligence. This book is the most fundamental software architecture book ever written. DDD is not an easy read, and you will grasp some of the concepts only after years of practicing. This book will change how you see software development forever.
+If you develop large enterprise systems, not reading this book borders on professional negligence. This book is the most fundamental software architecture book ever written. DDD is not an easy read, and you will grasp some of the concepts only after years of practicing. This book will change how you see software development forever. -->
